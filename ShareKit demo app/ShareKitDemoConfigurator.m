@@ -40,6 +40,10 @@
  leaving that decision up to the user.
  */
 
+// OneNote - https://account.live.com/developers/applications
+- (NSString*)onenoteClientId {
+    return @"000000004C108A0A";//@"000000004810E0F1";
+}
 
 // Vkontakte
 // SHKVkontakteAppID is the Application ID provided by Vkontakte
