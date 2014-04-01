@@ -42,7 +42,7 @@
 
 // OneNote - https://account.live.com/developers/applications
 - (NSString*)onenoteClientId {
-    return @"000000004C108A0A";//@"000000004810E0F1";
+    return @"000000004C10E500"; // DO NOT USE THIS CLIENT ID IN YOUR APP! You should get your own from above URL!!!!
 }
 
 // Vkontakte
